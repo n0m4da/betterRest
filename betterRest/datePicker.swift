@@ -27,7 +27,8 @@ struct datePicker: View {
         Text(Date.now, format: .dateTime.hour().minute())
         
         Text(Date.now, format: .dateTime.day().month().year())
-            
+        
+        Text(Date.now.formatted(date: .numeric, time: .shortened))
     }
     
     func exampleDates() {

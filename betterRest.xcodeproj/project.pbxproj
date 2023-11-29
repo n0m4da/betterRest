@@ -12,6 +12,7 @@
 		CC8754AF2B16FD31001C90D3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CC8754AE2B16FD31001C90D3 /* Assets.xcassets */; };
 		CC8754B22B16FD31001C90D3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CC8754B12B16FD31001C90D3 /* Preview Assets.xcassets */; };
 		CC8754B92B170037001C90D3 /* datePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC8754B82B170037001C90D3 /* datePicker.swift */; };
+		CCD71ECF2B17DBCC0059A9D9 /* machineLearning.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCD71ECE2B17DBCC0059A9D9 /* machineLearning.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		CC8754AE2B16FD31001C90D3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CC8754B12B16FD31001C90D3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CC8754B82B170037001C90D3 /* datePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = datePicker.swift; sourceTree = "<group>"; };
+		CCD71ECE2B17DBCC0059A9D9 /* machineLearning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = machineLearning.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				CC8754AE2B16FD31001C90D3 /* Assets.xcassets */,
 				CC8754B02B16FD31001C90D3 /* Preview Content */,
 				CC8754B82B170037001C90D3 /* datePicker.swift */,
+				CCD71ECE2B17DBCC0059A9D9 /* machineLearning.swift */,
 			);
 			path = betterRest;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CC8754B92B170037001C90D3 /* datePicker.swift in Sources */,
+				CCD71ECF2B17DBCC0059A9D9 /* machineLearning.swift in Sources */,
 				CC8754AD2B16FD30001C90D3 /* ContentView.swift in Sources */,
 				CC8754AB2B16FD30001C90D3 /* betterRestApp.swift in Sources */,
 			);
